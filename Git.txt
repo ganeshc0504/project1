@@ -4,3 +4,12 @@ git status  = to check the status of our local repository
 
 code .  = to open in VScode directly
 
+git add .  = to add all files from folder 
+
+git add filename  = to add perticular file
+
+git restore --staged filename = to restore from git to folder
+ or 
+git rm --cached filename  = to restore form git to folder 
+
+ 
