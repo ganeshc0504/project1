@@ -1,0 +1,6 @@
+git init  = to initialise depository
+
+git status  = to check the status of our local repository
+
+code .  = to open in VScode directly
+
